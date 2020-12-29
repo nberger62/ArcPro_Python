@@ -1,9 +1,5 @@
 
 import arcpy
-import pandas
-import numpy
-import scipy
-import ipywidgets
 
 arcpy.env.workspace = r"C:\EsriTraining\CrimeAnalysisInfoProd\Products\Products.gdb"
 
